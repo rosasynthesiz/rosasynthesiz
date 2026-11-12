@@ -4,7 +4,7 @@ Workflows, setups and pipelines. Local-first AI for Indian languages, code-drive
 
 ## What we build
 
-- **RosaScribe** — offline dictation for Tamil, Hindi, Telugu, Malayalam, Kannada and English. Mac and Windows. Beta.
+- **Naavil** — offline dictation for Tamil, Hindi, Telugu, Malayalam, Kannada and English. Mac and Windows. Beta.
 - **FL Studio MCP** — an MCP server for mix inspection, plug-in control and MIDI inside FL Studio. [flstudio-mcp](https://github.com/rosasynthesiz/flstudio-mcp)
 - **Logic Pro MCP** — an MCP server for transport, tracks, mixer, plug-ins and bounce in Logic Pro. [logic-pro-mcp](https://github.com/rosasynthesiz/logic-pro-mcp)
 - **Claude Animation Studio** — a Claude Code skill that turns a script into an animated video with local voice and a measured mix. [claude-animation-studio](https://github.com/rosasynthesiz/claude-animation-studio)
@@ -14,7 +14,7 @@ Workflows, setups and pipelines. Local-first AI for Indian languages, code-drive
 
 ## How we work
 
-Reproducible setup, pinned dependencies, measured results. We say what a tool can and cannot do. Open models we mirror on Hugging Face are unmodified, hash-verified copies with their original licences and credits.
+Reproducible setup, pinned dependencies, measured results. We say what a tool can and cannot do. Open models we host on Hugging Face keep their original licences and credits; any change we make is stated on the model page, and every file is hash-checked.
 
 ## Links
 
